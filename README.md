@@ -112,7 +112,7 @@ Model Accuracy Output
 
 ## 👨‍💻 Contributors
 - Dipanshu Milmile  
-- Dikshnat Lalsare  
+- Dikshant Lalsare  
 - Dnyaneshwar Gaydhane 
 
 
