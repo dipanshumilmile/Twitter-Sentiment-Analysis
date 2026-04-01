@@ -113,14 +113,8 @@ Model Accuracy Output
 ## 👨‍💻 Contributors
 - Dipanshu Milmile  
 - Dikshnat Lalsare  
-- Dnyaneshwar Gaydhane  
+- Dnyaneshwar Gaydhane 
 
----
-
-## 📄 License
-This project is for academic and learning purposes.
-
----
 
 ## ⭐ Acknowledgment
 This project was developed as part of a **Big Data Analytics academic project**, demonstrating the integration of **Big Data, Machine Learning, and NLP**.
